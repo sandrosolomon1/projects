@@ -3,6 +3,8 @@ const UI = new ui;
 const Storage = new storage;
 let city;
 
+// RIGHT YOU ARE MADAFAKAAAAAAAAAAAAAAA
+
 function load_data() {
     if(localStorage.length) {
             for(let i=0;i<localStorage.length;i++){
