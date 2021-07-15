@@ -4,6 +4,7 @@ const Storage = new storage;
 let city;
 
 // RIGHT YOU ARE MADAFAKAAAAAAAAAAAAAAA
+// requested a pr betch
 
 function load_data() {
     if(localStorage.length) {
